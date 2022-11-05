@@ -14,5 +14,4 @@ My name is Damilare Mogaji. I'm a Graphic Designer and an aspiring Software Engi
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=damilare&show_icons=true&include_all_commits=true&hide_border=true" alt="Damilare's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damilare&langs_count=8&layout=compact&hide_border=true" alt="Damilare's GitHub stats" /> |
-| ------------- | ------------- |
+
